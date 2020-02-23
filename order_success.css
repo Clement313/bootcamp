@@ -1,0 +1,91 @@
+li {
+    display: inline;
+    list-style-type: none;
+    margin-left: 30px;
+    border: 1px solid transparent;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 19px;
+    padding: 10px;
+}
+
+ul{
+    margin-left: 300px;
+    
+   
+    
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+
+li a:hover{
+    color: white;
+    border: white;
+    background-color: rgb(218, 193, 53);
+    padding: 16px;
+    border-radius: 10px;
+}
+
+nav{
+    background-color: rgb(204, 144, 54);
+    border-radius: 22px;
+    padding: 3px;
+}
+
+h1  {
+    text-align: center;
+    color: rgb(15, 66, 37);
+}
+
+h3{
+    text-align: center;
+    font-weight: bold;
+}
+
+h4{
+    text-align: center;
+    color: blue;
+}
+footer{
+    margin-left: 550px;
+    padding-bottom: 100px;
+}
+
+button{
+    margin-left: 610px;
+    background-color: blue;
+    height: 50px;
+    width: 70px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#odmore{
+    color: white;
+    border-radius: 20px;
+}
+button:hover{
+    background-color: olive;
+
+}
+
+body{
+    color: grey;
+    background-color: rgba(251, 253, 249, 0.808);
+}
+
+.btntwo{
+    margin-left: 610px;
+    background-color: rgb(90, 15, 139);
+    height: 50px;
+    width: 70px;
+}
+
+.btntwo:hover{
+    background-color: rgb(24, 129, 85);
+}
+
+#ghome{
+    color: white;
+}

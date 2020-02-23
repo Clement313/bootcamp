@@ -1,0 +1,86 @@
+
+
+
+
+span{
+    color: red;
+}
+
+.formms{
+    background-image: url("images/twentyone.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: cover;
+    color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 20px;
+
+}
+
+li {
+    display: inline;
+    list-style-type: none;
+    margin-left: 30px;
+    border: 1px solid transparent;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 19px;
+    padding: 10px;
+}
+
+ul{
+    margin-left: 300px;
+
+
+
+}
+
+a{
+    text-decoration: none;
+    color: black;
+
+}
+
+li a:hover{
+    color: white;
+    border: white;
+    background-color: rgb(218, 193, 53);
+    padding: 16px;
+    border-radius: 10px;
+}
+
+nav{
+    background-color: rgb(204, 144, 54);
+    border-radius: 22px;
+    padding: 3px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(112, 11, 143);
+}
+
+h3{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.btn2{
+    margin-left: 630px;
+}
+body{
+    background-color: rgb(198, 172, 223);
+    height: 100%;
+    margin: 0;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+btn3{
+  color: lightblue;
+  
+}
